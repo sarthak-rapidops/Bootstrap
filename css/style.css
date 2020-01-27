@@ -1,12 +1,22 @@
 .padding{
     padding-top: 2rem;
 }
-ul a:hover{
+ul li:hover{ 
     background-color: dodgerblue;
 
 }
+
+.navbar{
+    padding: 0;
+}
+
+.nav-link{
+    margin: 15px;
+}
+
 .lh a:hover{
     background-color: dodgerblue;
+
 }
 .xx{
     font-size: 100px;
@@ -68,8 +78,8 @@ ul a:hover{
 .contact-form button{
     color: floralwhite;
     border: solid;
-    margin-left: 87.5%;
-    margin-top: -2em;
+    float: right;
+    margin-top: 0.1rem;
 }
 .padding_img
 {
